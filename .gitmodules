@@ -1,3 +1,6 @@
 [submodule "vendor/github.com/docker/libkv"]
 	path = vendor/github.com/docker/libkv
 	url = https://github.com/docker/libkv.git
+[submodule "vendor/github.com/abiosoft/ishell"]
+	path = vendor/github.com/abiosoft/ishell
+	url = https://github.com/abiosoft/ishell.git
