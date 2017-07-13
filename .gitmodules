@@ -10,3 +10,6 @@
 [submodule "vendor/github.com/chzyer/readline"]
 	path = vendor/github.com/chzyer/readline
 	url = https://github.com/chzyer/readline.git
+[submodule "vendor/github.com/fatih/color"]
+	path = vendor/github.com/fatih/color
+	url = https://github.com/fatih/color.git
