@@ -7,3 +7,6 @@
 [submodule "vendor/github.com/romana/rlog"]
 	path = vendor/github.com/romana/rlog
 	url = https://github.com/romana/rlog.git
+[submodule "vendor/github.com/chzyer/readline"]
+	path = vendor/github.com/chzyer/readline
+	url = https://github.com/chzyer/readline.git
