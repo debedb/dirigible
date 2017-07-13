@@ -4,3 +4,6 @@
 [submodule "vendor/github.com/abiosoft/ishell"]
 	path = vendor/github.com/abiosoft/ishell
 	url = https://github.com/abiosoft/ishell.git
+[submodule "vendor/github.com/romana/rlog"]
+	path = vendor/github.com/romana/rlog
+	url = https://github.com/romana/rlog.git
